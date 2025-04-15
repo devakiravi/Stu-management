@@ -1,1 +1,1 @@
-# Stu-management
+# Student-management
