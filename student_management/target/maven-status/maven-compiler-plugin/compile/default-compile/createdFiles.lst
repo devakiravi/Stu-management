@@ -1,0 +1,8 @@
+com\student\student_management\entity\StudentEntity$StudentEntityBuilder.class
+com\student\student_management\service\StudentService.class
+com\student\student_management\dto\StudentDTO.class
+com\student\student_management\entity\StudentEntity.class
+com\student\student_management\repository\StudentRepository.class
+com\student\student_management\controller\StudentController.class
+com\student\student_management\dto\StudentDTO$StudentDTOBuilder.class
+com\student\student_management\StudentManagementApplication.class
